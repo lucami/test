@@ -1,6 +1,6 @@
 file uno
 
 ancora in beta
-inserisco bug nel codice
+risolvo bug #inserisco bug nel codice
 
-inserisco feature nel branch main 
+inserisco feature nel branch main
