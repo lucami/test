@@ -5,3 +5,5 @@ risolvo bug #inserisco bug nel codice
 
 inserisco feature nel branch main
   miglioro questa feature
+
+Inserisco feature "schiaffo in faccia"
