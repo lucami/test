@@ -2,8 +2,12 @@ file due
 anche questo in beta
 
 inserisco feature funzionante
+<<<<<<< HEAD
 inserisco una feature per sorgere
 
 inserisco feature "capocciata sonica"
 
 inserisco feature "bacio con la lingua"
+=======
+feature: LUNA
+>>>>>>> 5073c574eb26be17959f27be0384c95059dcab03
