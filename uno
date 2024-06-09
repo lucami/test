@@ -10,3 +10,4 @@ Inserisco feature "schiaffo in faccia con hotfix"
 
 
 inserisco feature di sviluppo: orgasmo multiplo
+inserisco feature di sviluppo: orgasmo anale
